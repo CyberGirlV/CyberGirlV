@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @CyberGirlV
-- 👀 I’m interested in ... Information Technology, CAD, Architecture, Arts and Coding
-- 🌱 I’m currently learning ... AutoCAD Essentials, SQL, Comptia A+
-- 💞️ I’m looking to collaborate on ... Designing building for Companies and working on the Thech side of a business 
-- 📫 How to reach me ... N/A
+-## Hi, I’m Valerie 👋
 
-<!---
-CyberGirlV/CyberGirlV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 IT Service Desk Analyst | Cybersecurity Student  
+🎓 B.S. Cybersecurity & Information Assurance (WGU)
+
+---
+
+### 🔹 About Me
+
+I’m currently working in IT while studying Cybersecurity.  
+I enjoy learning new technologies, building projects, and growing toward advanced technical roles.
+
+Right now I’m focused on:
+
+- CompTIA A+ concepts  
+- SQL fundamentals  
+- AutoCAD basics  
+- PowerShell & systems administration  
+- Game server development (FiveM / Lua)
+
+---
+
+### 🔹 Interests
+
+- Information Technology & Cybersecurity  
+- Coding & automation  
+- Game servers & scripting  
+- Digital creativity  
+- Tech entrepreneurship
+- Anything Tech & Gaming realted 
+
+---
+
+### 🔹 Currently Learning
+
+- PowerShell  
+- SQL  
+- AutoCAD  
+- Network fundamentals  
+- Lua scripting  
+
+---
+
+### 🔹 Projects
+
+🚧 Always building — check out my repositories.
+
+---
+
+✨ Always learning. Always creating.
