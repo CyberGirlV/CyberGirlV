@@ -1,6 +1,6 @@
 -## Hi, I’m Valerie 👋
 
-💻 IT Service Desk Analyst | Cybersecurity Student  
+💻 IT Support | Cybersecurity Student  
 🎓 B.S. Cybersecurity & Information Assurance (WGU)
 
 ---
